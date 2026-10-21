@@ -1,95 +1,81 @@
-<!--MYCC-PORTFOLIO-META stays unchanged-->
+<!--MYCC-PORTFOLIO-META:%7B%22v%22%3A3%2C%22github%22%3A%22Nickalas%20Baclich%22%2C%22name%22%3A%22Nickalas%20R.%20Baclich%22%2C%22email%22%3A%22Nickalbac%40outlook.com%22%2C%22linkedin%22%3A%22%22%2C%22resume%22%3A%22%22%2C%22bio%22%3A%22%22%2C%22themeIdx%22%3A0%2C%22skills%22%3A%5B%5D%2C%22headlines%22%3A%5B%5D%2C%22customHeadlines%22%3A%5B%5D%2C%22customSkills%22%3A%5B%5D%2C%22certs%22%3A%5B%5D%2C%22customLabs%22%3A%7B%221%22%3A%5B%5D%2C%222%22%3A%5B%7B%22name%22%3A%22Capture%20Day%204%20AI%20Tutor%20Prompt%22%2C%22desc%22%3A%22%22%2C%22link%22%3A%22%22%2C%22status%22%3A%22pending%22%7D%5D%2C%223%22%3A%5B%5D%2C%224%22%3A%5B%5D%2C%225%22%3A%5B%5D%2C%226%22%3A%5B%5D%7D%7D-->
 
 <div align="center">
 
-<!-- Y2K Animated Header -->
-<img src="https://readme-typing-svg.herokuapp.com?color=00E5FF&size=32&center=true&vCenter=true&width=650&lines=Nickalas+Baclich;ITSA+Student;Future+AI+Developer;Welcome+to+My+Y2K+Portfolio" />
+<img src="https://github.com/Nickalas Baclich.png" width="150" style="border-radius:50%;border:4px solid #0969da"/>
 
-<!-- Retro Avatar Frame -->
-<img src="https://github.com/NickalasBaclich.png" width="150" style="border-radius:50%;border:4px solid #00E5FF;box-shadow:0 0 12px #FF00FF;" />
+# Hi there, I'm Nickalas R. Baclich
 
-# 🌈 Nickalas Baclich  
-### *ITSA Student · Tech Enthusiast · AI‑Driven Future Builder*
+**Nickalas R. Baclich**
 
-[![GITHUB](https://img.shields.io/badge/GITHUB-%40NickalasBaclich-0000FF?style=for-the-badge&logo=windows95&logoColor=white)](https://github.com/NickalasBaclich)
-[![EMAIL](https://img.shields.io/badge/EMAIL-CONTACT-FF00FF?style=for-the-badge&logo=minutemailer&logoColor=white)](mailto:nicktherick6@gmail.com)
+*ITSA Student*
+
+[![GITHUB](https://img.shields.io/badge/GITHUB-%40Nickalas Baclich-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nickalas Baclich) [![EMAIL](https://img.shields.io/badge/EMAIL-CONTACT-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Nickalbac@outlook.com)
 
 </div>
 
 ---
 
-## 🪩 **Professional Summary**
-*A passionate IT student focused on hardware, networking, and operating systems, building toward a future in AI development. I enjoy solving problems, learning new technologies, and creating digital experiences that blend creativity with technical skill.*
+## Professional Summary
+
+*Add your professional summary above to display it here.*
 
 ---
 
-## 💾 **Skills Learned (Y2K Edition)**
+## Skills Learned
 
-### 🖥️ Tech Essentials  
-![Computer Hardware](https://img.shields.io/badge/Computer%20Hardware-00E5FF?style=plastic&logo=windows95&logoColor=white)
-![PC Assembly](https://img.shields.io/badge/PC%20Assembly-FF00FF?style=plastic&logo=windows&logoColor=white)
-![Troubleshooting](https://img.shields.io/badge/Troubleshooting-FFD700?style=plastic&logo=msdos&logoColor=black)
-![Operating Systems](https://img.shields.io/badge/Operating%20Systems-00FF9D?style=plastic&logo=windowsxp&logoColor=white)
-![BIOS/UEFI](https://img.shields.io/badge/BIOS%2FUEFI-FF66C4?style=plastic)
-![Storage Devices](https://img.shields.io/badge/Storage%20Devices-00E5FF?style=plastic)
-![Virtualization](https://img.shields.io/badge/Virtualization-FF00FF?style=plastic)
-![Command Line](https://img.shields.io/badge/Command%20Line-FFD700?style=plastic)
-![Peripheral Devices](https://img.shields.io/badge/Peripheral%20Devices-00FF9D?style=plastic)
-
-### 🌐 Networking & Security  
-![DNS](https://img.shields.io/badge/DNS-00E5FF?style=plastic)
-![DHCP](https://img.shields.io/badge/DHCP-FF00FF?style=plastic)
-![VLANs](https://img.shields.io/badge/VLANs-FFD700?style=plastic)
-![Routing & Switching](https://img.shields.io/badge/Routing%20%26%20Switching-00FF9D?style=plastic)
-![Firewalls](https://img.shields.io/badge/Firewalls-FF66C4?style=plastic)
-![Wi-Fi](https://img.shields.io/badge/Wi--Fi-00E5FF?style=plastic)
+*Select skills in the builder to display them here.*
 
 ---
 
-## 🌀 **Course Portfolio (Animated Y2K Panels)**
+## Course Portfolio
 
 <details>
-<summary><strong>📡 Course 1: Networking I</strong></summary>
+<summary><strong>Course 1: Networking I</strong></summary>
+
+*No labs added yet.*
+
+</details>
+
+<details>
+<summary><strong>Course 2: Computer & Security Essentials</strong></summary>
 
 | Lab / Project | Description | Status | Link |
 |---|---|---|---|
-| Configure Printers and External Devices | Troubleshoot, connect, and manage printers and external devices | ⏳ Pending | — |
-| Perform a Clean Installation of Windows 10 | — | ⏳ Pending | — |
-| Use Operating System Tools and Features | — | ⏳ Pending | — |
-| Perform Network Troubleshooting | — | ⏳ Pending | — |
-| Perform Network Analysis | — | ⏳ Pending | — |
-| Configure remote desktop access | Enable secure remote connections to a Windows device | ⏳ Pending | — |
-| Gain remote access to a Windows system | Connect remotely to control the system as if physically present | ⏳ Pending | — |
+| Capture Day 4 AI Tutor Prompt | — | ⏳ Pending | — |
 
 </details>
 
 <details>
-<summary><strong>🛡️ Course 2: Computer & Security Essentials</strong></summary>
+<summary><strong>Course 3: Operating Systems I</strong></summary>
+
 *No labs added yet.*
+
 </details>
 
 <details>
-<summary><strong>💽 Course 3: Operating Systems I</strong></summary>
+<summary><strong>Course 4: Security I</strong></summary>
+
 *No labs added yet.*
+
 </details>
 
 <details>
-<summary><strong>🔐 Course 4: Security I</strong></summary>
+<summary><strong>Course 5: Server I</strong></summary>
+
 *No labs added yet.*
+
 </details>
 
 <details>
-<summary><strong>🖧 Course 5: Server I</strong></summary>
-*No labs added yet.*
-</details>
+<summary><strong>Course 6: Networking & Security I</strong></summary>
 
-<details>
-<summary><strong>🌐 Course 6: Networking & Security I</strong></summary>
 *No labs added yet.*
+
 </details>
 
 ---
 
 <div align="center">
-<sub>✨ Built with the <a href="https://mycceducation.azurewebsites.net">MyComputer Career Digital Portfolio Builder</a> · Y2K Edition ✨</sub>
+<sub>Built with the <a href="https://mycceducation.azurewebsites.net">MyComputer Career Digital Portfolio Builder</a> · ITSA Program</sub>
 </div>
